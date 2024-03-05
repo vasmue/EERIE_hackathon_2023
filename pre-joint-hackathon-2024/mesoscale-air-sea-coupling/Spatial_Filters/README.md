@@ -91,3 +91,6 @@ Additional files needed/made prior to running script.
      `cp -p /work/bm1344/a270228/EERIE_Hackathon/IFS-FESOM_CONTROL-1950/tco1279-NG5/1950/FESOM/025/daily/ssh_1950_19500101-19500131_025.nc /work/mh0256/m300466/ifsfesomgrids/ssh_1950_IFS25.nc`
 
 
+## Implicit Filter for FESOM2
+There is a filter package by Kacper Novak available for unstructured FESOM data.
+https://github.com/FESOM/implicit_filter
